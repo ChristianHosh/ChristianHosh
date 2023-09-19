@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christian Hosh</h1>
 <h3 align="center">A passionate full-stack and game developer from Palestine</h3>
 
-- 🌱 I’m currently learning **Game Development using Unity**
-
 - 📫 How to reach me **mctibhosh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
